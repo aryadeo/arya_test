@@ -1,3 +1,3 @@
 # arya_test
-Just for testing
-hey its about creating the github repository
+This repoitory is for python basics
+Lets start
