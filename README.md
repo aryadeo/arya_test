@@ -1,3 +1,3 @@
 # arya_test
-This repoitory is for python basics
+This repository is for python basics
 Lets start
