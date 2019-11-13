@@ -1,0 +1,2 @@
+This folder describes the use of list, tuple, disct and set datatypes in python.
+All the codes are written google colabotary.
